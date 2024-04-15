@@ -12,7 +12,7 @@ We used a [Random Forest Classifier] [Naive-Bayes Classifier] [Desicion Tree Cla
 
 
 ## Usage
-1. Run the Jupyter notebook `loan_approval_prediction.ipynb` to train and test the model.
+1. Run the Jupyter notebook `Loan Approval Prediction.ipynb` to train and test the model.
 2. Use the trained model to predict loan approval status for new applicants.
 
 ## Results
