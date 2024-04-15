@@ -23,5 +23,5 @@ The model achieved an accuracy of 83% on the test set, indicating its effectiven
 - Explore other machine learning algorithms for comparison.
 
 ## Contributors
-- [Palak PAtel](https://github.com/palakpatel01)
+- [Palak Patel](https://github.com/palakpatel01)
 
